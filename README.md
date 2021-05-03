@@ -7,8 +7,10 @@ I'm a self-learning Data Science
 💞️ I’m looking to collaborate on learning coding in Data science, especially Healthcare field
 
 🎓 I'm currently studying in California, USA.
+
 📝 I love reading books and news related to Healthcare field.
 I'm best reached via email. I'm always open to interesting conversations and collaboration.
+
 📫 How to reach me linkedin.com/in/ngoc-han-nguyen
 
 

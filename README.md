@@ -1,6 +1,8 @@
 
 Hi, I'm Han 👋
-I'm a self-learning Data Science and 👀 I’m interested in Healthcare Data Science.💞️ I’m looking to collaborate on learning coding in Data science, especially Healthcare field
+I'm a self-learning Data Science
+👀 I’m interested in Healthcare Data Science
+💞️ I’m looking to collaborate on learning coding in Data science, especially Healthcare field
 
 🎓 I'm currently studying in California, USA.
 📝 I love reading books and news related to Healthcare field.

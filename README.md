@@ -1,11 +1,11 @@
 
-https://user-images.githubusercontent.com/70236972/116939048-8679eb00-ac20-11eb-9bcb-aaba4b2b781c.mp4
+Hi, I'm Han 👋
+I'm a self-learning Data Science and 👀 I’m interested in Healthcare Data Science.💞️ I’m looking to collaborate on learning coding in Data science, especially Healthcare field
 
-- 👋 Hi, I’m @hannguyen18
-- 👀 I’m interested in Healthcare Data Science
-- 🌱 I’m currently self-learning Data Science
-- 💞️ I’m looking to collaborate on learning coding in Data science, especially Healthcare field
-- 📫 How to reach me linkedin.com/in/ngoc-han-nguyen
+🎓 I'm currently studying in California, USA.
+📝 I love reading books and news related to Healthcare field.
+I'm best reached via email. I'm always open to interesting conversations and collaboration.
+📫 How to reach me linkedin.com/in/ngoc-han-nguyen
 
 
 <!---

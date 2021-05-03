@@ -1,3 +1,6 @@
+
+https://user-images.githubusercontent.com/70236972/116939048-8679eb00-ac20-11eb-9bcb-aaba4b2b781c.mp4
+
 - 👋 Hi, I’m @hannguyen18
 - 👀 I’m interested in Healthcare Data Science
 - 🌱 I’m currently self-learning Data Science

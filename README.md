@@ -1,6 +1,6 @@
 
 # Hi, I'm Han 👋
-I'm a self-learning Data Science
+I'm a self-learner Data Science
 
 👀 I’m interested in Healthcare Data Science
 

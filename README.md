@@ -8,7 +8,7 @@ I'm a self-learner Data Science
 
 🎓 I'm currently studying in California, USA.
 
-📝 I love reading books and news related to Healthcare field.
+📝 I love reading books and news related to Tech, Data, and Healthcare field.
 I'm best reached via email. I'm always open to interesting conversations and collaboration.
 
 📫 How to reach me linkedin.com/in/ngoc-han-nguyen

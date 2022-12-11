@@ -1,6 +1,5 @@
 
 # Hi, I'm Han 👋
-I'm a self-learner Data Science
 
 👀 I’m an Aspiring Data Scientist 
 

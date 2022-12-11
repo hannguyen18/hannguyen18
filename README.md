@@ -2,13 +2,13 @@
 # Hi, I'm Han 👋
 I'm a self-learner Data Science
 
-👀 I’m interested in Healthcare Data Science
+👀 I’m an Aspiring Data Scientist 
 
-💞️ I’m looking to collaborate on learning coding in Data science, especially Healthcare field
+💞️ I’m looking to collaborate on learning coding in Data science
 
-🎓 I'm currently studying in California, USA.
+🎓 I'm currently studying in University of California, Irvine.
 
-📝 I love reading books and news related to Tech, Data, and Healthcare field.
+📝 I love reading books and news related to Tech, Data, and Entertainment industries.
 I'm best reached via email. I'm always open to interesting conversations and collaboration.
 
 📫 How to reach me linkedin.com/in/hannguyen18/

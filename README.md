@@ -3,7 +3,7 @@
 
 👀 I’m an Aspiring Data Analyst  
 
-💞️ I’m looking to collaborate on learning coding in Data Analytics.
+💞️ I’m looking to collaborate on learning coding in Data Science.
 
 🎓 I'm currently studying in University of California, Irvine.
 

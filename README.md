@@ -1,7 +1,7 @@
 
 # Hi, I'm Han 👋
 
-👀 I’m an Aspiring Data Analyst  
+👀 I’m an Aspiring Data Scientist. 
 
 💞️ I’m looking to collaborate on learning coding in Data Science.
 

@@ -7,7 +7,7 @@
 
 🎓 I'm currently studying in University of California, Irvine.
 
-📝 I love reading books and news related to Tech, Data, Sport, and Entertainment industries.
+📝 I love reading books and news related to Data, Tech, Medical/ Healthcare, and Sport industries.
 I'm best reached via email. I'm always open to interesting conversations and collaboration.
 
 📫 How to reach me linkedin.com/in/hannguyen18/
